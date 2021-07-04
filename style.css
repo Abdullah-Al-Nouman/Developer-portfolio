@@ -44,3 +44,6 @@ h1{
    background-repeat: no-repeat;
    background-position: right;
 }
+.box-internal-text-color{
+    color: crimson;
+}
