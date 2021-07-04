@@ -10,7 +10,7 @@ h1{
     color: crimson;
     font-size: 60px;
 }
-section{
+.flexible{
     display: flex;
     margin-bottom: 150px;
     
