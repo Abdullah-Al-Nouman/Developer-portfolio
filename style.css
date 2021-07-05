@@ -12,7 +12,7 @@ h1{
 }
 .flexible{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 200px;
     
 }
 .half-width{
@@ -55,6 +55,14 @@ h1{
     margin-right: 5px;
     padding-left: 20px;
     border-radius: 10px;
+    
+
+}
+.experiance-area{
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+
     
 
 }
